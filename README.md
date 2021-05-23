@@ -21,7 +21,7 @@ The program should look something like this
 window should pop up.  
 ![alt text](https://github.com/PizzaPablo666/Linked-List-UI/blob/master/images/Stop_Music.png)  
 As long as the program works with multiprocessing you can continue to make list, add nodes etc.
-2. We have to create new Linked List with **Create List** Button. If Linked list is created successfully this window should pop up.
+2. We have to create new Linked List with **Create List** Button. If Linked list is created successfully this window should pop up.  
 ![alt text](https://github.com/PizzaPablo666/Linked-List-UI/blob/master/images/Create_List.png)  
 3. Now we can add node from the beginning of the Linked list or from the bottom by clicking on **Add Node At The End** or **Add Node At the Beginning**.
 After clicking this window should pop up.  
